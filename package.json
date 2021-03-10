@@ -1,0 +1,25 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbeckmann1/blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbeckmann1/blockchain/issues"
+  },
+  "homepage": "https://github.com/jbeckmann1/blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.33",
+    "typescript": "^4.2.3"
+  }
+}
